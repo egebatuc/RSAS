@@ -1,0 +1,71 @@
+RSAS — Rhizosphere-Spray Agrivoltaic System
+#
+A conceptual framework integrating three technologies into a single closed-loop system managed by NASA’s real-time Earth observation data for climate-resilient agriculture.
+
+---
+
+## Problem
+While simultaneous climate stresses threaten plant development and agricultural productivity, existing systems remain inadequate in providing comprehensive solutions.
+
+---
+
+## Solution
+
+### 1. Rhizosphere Engineering (RE 2.0)
+RE 2.0 aims to design the microorganism community surrounding the plant's roots in accordance with climatic conditions.
+* **Prediction & Application:** Drought, salinity, and temperature stresses are predicted **3 to 7 days in advance** using NASA data and field sensors. Subsequently, synthetic microbial communities (**SynComs**) tailored to root exudates are applied to the roots.
+* **Frost Protection:** In the event of frost risk, the application of microorganisms producing antifreeze proteins (**AFP**) is targeted. An example is the *Pseudomonas putida* GR12-2 strain, which has been reported to survive temperatures down to **-20 °C or even -50 °C**.
+* **Objective:** Transform the plant's root microbiota into a biological defense system against climate stresses.
+
+### 2. SMART SPRAY – Biological Polymer Spray
+SMART SPRAY is a biodegradable polymer coating that anchors the designed SynCom microorganisms to the root zone and maintains their moisture.
+* **Mechanism:** Through the protective film it forms on the plant surface, it aims to reduce evaporation and provide insulation against temperature fluctuations and frost, offering multi-layered protection against drought, temperature, and frost stresses.
+* **Performance & Degradation:** Targeted to degrade within **5 to 7 months** and preserve soil moisture by **up to 35%**.
+* **Cost:** Ranges between **USD 650 and 4,500** per hectare, with a target cost of **under USD 2,000**.
+
+### 3. Dynamic Agrivoltaics – Energy + Microclimate
+In the dynamic agrivoltaic system, solar panels are not stationary; their angles adjust automatically based on temperature, humidity, and plant stress monitored via NASA satellite data.
+* **Daytime Heat Mitigation:** Aims to provide shade to reduce temperatures by **3–4 °C** and achieve **41–42% water savings**.
+* **Frosty Night Protection:** Aims to protect the plant by reducing radiative cooling. Projected to:
+  * Increase ambient air temperature by **0.27–0.47 °C**.
+  * Increase flower bud temperature by **1.61–1.69 °C**.
+  * Reduce the proportion of frost-damaged flowers from **above 35% to under 10%**.
+* **Economic Potential:** Offers an annual revenue potential of **EUR 100,000 to 200,000 per hectare** through the sale of generated electricity.
+
+---
+
+## NASA Data and System Operating Principles
+
+### Data Sources
+* **NASA POWER:** Provides solar irradiance, ambient temperature, and meteorological data, assisting in the monitoring of temperature and climatic conditions.
+* **SMAP (Soil Moisture Active Passive):** Tracks soil moisture via satellite measurements and is utilized to determine drought risk.
+* **MODIS (Moderate Resolution Imaging Spectroradiometer):** Assists in monitoring changes related to vegetation cover, surface temperature, and plant health.
+
+### AI Analysis & Decision-Making
+These satellite data are combined with measurements from field sensors and transmitted to artificial intelligence to evaluate:
+1. **Drought risk:** Based on reductions in soil moisture.
+2. **Temperature risk:** Based on meteorological and surface temperature data.
+3. **Plant stress:** Based on changes in vegetation cover and photosynthetic activity.
+
+The acquired information is analyzed by AI to assist in selecting the appropriate **SynCom mixture**, applying **SMART SPRAY**, and adjusting the **angles of the agrivoltaic panels**.
+
+---
+
+## Website Access
+1. Click the link.
+2. Select the `"index.html"` directory.
+3. Open the file within the directory.
+
+---
+
+## Team Members
+* **Ege Batu CAYMAZ** — Team Leader
+* **Doğa ÇERÇİ** — Team Member
+* **Ece ÖZCANLAR** — Team Member
+* **Etka Yağız BEKCİ** — Team Member
+* **Simya TEKOĞLU** — Team Member
+* **Yuşa ÖZTÜRK** — Team Member
+---
+
+## Status
+* **HTML:**[cite: 1]
